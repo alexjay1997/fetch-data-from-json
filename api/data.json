@@ -1,0 +1,42 @@
+[
+    {
+        "name":"Company 1",
+        "number_of_employees":100,
+        "Ceo":"john",
+        "rating":5.0,
+        "Images":"https://images.pexels.com/photos/373912/pexels-photo-373912.jpeg?cs=srgb&dl=aerial-architectural-design-architecture-buildings-373912.jpg&fm=jpg"
+
+
+    },
+
+    {
+        "name":"Company 2",
+        "number_of_employees":10,
+        "Ceo": "none",
+        "rating":2.5,
+        "Images":"images/pic1.jpg"
+
+
+    },
+
+    {
+        "name":"Company 3",
+        "number_of_employees":50,
+        "Ceo": "alexa",
+        "rating":3.0,
+        "Images":"images/kv.png"
+
+
+    },
+
+    {
+        "name":"Company 4",
+        "number_of_employees":20,
+        "Ceo": "alex",
+        "rating":4.0,
+        "Images":"images/banner2.jpg"
+
+
+    }
+
+]
